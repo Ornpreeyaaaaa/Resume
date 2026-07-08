@@ -23,7 +23,6 @@ Mahasarakham University (MSU)
 - Config VLAN และ IP Address
 
 ## 📜 Certificates
-ฆ
 - Cisco Networking Academy
 
 ## 📞 Contact
